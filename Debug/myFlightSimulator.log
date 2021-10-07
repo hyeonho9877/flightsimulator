@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\61906\source\repos\myFlightSimulator\landscape.h(29,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\61906\source\repos\myFlightSimulator\landscape.h(51,42): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\61906\source\repos\myFlightSimulator\landscape.h(51,33): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\61906\source\repos\myFlightSimulator\landscape.h(51,22): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\61906\source\repos\myFlightSimulator\landscape.h(52,20): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\61906\source\repos\myFlightSimulator\landscape.h(52,13): warning C4244: '인수': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\61906\source\repos\myFlightSimulator\cockpit.h(38,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\61906\source\repos\myFlightSimulator\main.cpp(72,15): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\61906\source\repos\myFlightSimulator\main.cpp(76,15): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\61906\source\repos\myFlightSimulator\main.cpp(80,16): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\61906\source\repos\myFlightSimulator\main.cpp(84,16): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\61906\source\repos\myFlightSimulator\main.cpp(132,35): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  myFlightSimulator.vcxproj -> C:\Users\61906\source\repos\myFlightSimulator\Debug\myFlightSimulator.exe
